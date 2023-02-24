@@ -1,0 +1,72 @@
+[
+  {
+    "prefix": "display-none",
+    "name": "hidden",
+    "prop": "display",
+    "value": "none",
+    "description": "此元素自身及后代元素都会隐藏,同时脱离文档流,不占空间"
+  },
+  {
+    "prefix": "display-block",
+    "name": "block",
+    "prop": "display",
+    "value": "block",
+    "description": "此元素将显示为块级元素,此元素前后会带有换行符"
+  },
+  {
+    "prefix": "display-inline-block",
+    "name": "inline-block",
+    "prop": "display",
+    "value": "inline-block",
+    "description": "此元素会被显示为行内块元素"
+  },
+  {
+    "prefix": "display-inline",
+    "name": "inline",
+    "prop": "display",
+    "value": "inline",
+    "description": "此元素会被显示为内联元素,元素前后没有换行符"
+  },
+  {
+    "prefix": "display-flex",
+    "name": "flex",
+    "prop": "display",
+    "value": "flex",
+    "description": "此元素会被显示为弹性盒模型元素,适用弹性布局"
+  },
+  {
+    "prefix": "display-inline-flex",
+    "name": "inline-flex",
+    "prop": "display",
+    "value": "inline-flex",
+    "description": "此元素会被显示为内联块级弹性盒模型元素"
+  },
+  {
+    "prefix": "display-webkit-box",
+    "name": "webkit-box",
+    "prop": "display",
+    "value": "-webkit-box",
+    "description": ""
+  },
+  {
+    "prefix": "display-contents",
+    "name": "display-contents",
+    "prop": "display",
+    "value": "contents",
+    "description": ""
+  },
+  {
+    "prefix": "display-inherit",
+    "name": "display-inherit",
+    "prop": "display",
+    "value": "inherit",
+    "description": ""
+  },
+  {
+    "prefix": "display-table",
+    "name": "display-table",
+    "prop": "display",
+    "value": "table",
+    "description": ""
+  }
+]

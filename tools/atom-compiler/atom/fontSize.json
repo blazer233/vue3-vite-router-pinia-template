@@ -1,0 +1,264 @@
+[
+  {
+    "prefix": "font-weight-normal",
+    "name": "font-normal",
+    "prop": "font-weight",
+    "value": "normal",
+    "description": "设置文本的粗细程度为默认值"
+  },
+  {
+    "prefix": "font-weight-bold",
+    "name": "font-bold",
+    "prop": "font-weight",
+    "value": "bold",
+    "description": "设置文本为粗体字符,字体加粗请使用此属性值"
+  },
+  {
+    "prefix": "font-weight-bolder",
+    "name": "font-weight-bolder",
+    "prop": "font-weight",
+    "value": "bolder",
+    "description": "设置文本为更粗的字符,尽量不使用此属性,改用bold"
+  },
+  {
+    "prefix": "font-weight-400",
+    "name": "font-w-400",
+    "prop": "font-weight",
+    "value": "400",
+    "description": "设置文本的粗细程度为400"
+  },
+  {
+    "prefix": "font-weight-500",
+    "name": "font-w-500",
+    "prop": "font-weight",
+    "value": "500",
+    "description": "设置文本的粗细程度为500"
+  },
+  {
+    "prefix": "font-weight-600",
+    "name": "font-w-600",
+    "prop": "font-weight",
+    "value": "600",
+    "description": "设置文本的粗细程度为600"
+  },
+  {
+    "prefix": "font-weight-700",
+    "name": "font-w-700",
+    "prop": "font-weight",
+    "value": "700",
+    "description": "设置文本的粗细程度为700"
+  },
+  {
+    "prefix": "font-weight-900",
+    "name": "font-w-900",
+    "count": 2,
+    "prop": "font-weight",
+    "value": "900",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-0",
+    "name": "font-0",
+    "prop": "font-size",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-10px",
+    "name": "font-10",
+    "prop": "font-size",
+    "value": "10px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-14px",
+    "name": "font-14",
+    "prop": "font-size",
+    "value": "14px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-16px",
+    "name": "font-16",
+    "prop": "font-size",
+    "value": "16px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-17px",
+    "name": "font-17",
+    "prop": "font-size",
+    "value": "17px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-18px",
+    "name": "font-18",
+    "prop": "font-size",
+    "value": "18px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-20px",
+    "name": "font-20",
+    "prop": "font-size",
+    "value": "20px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-22px",
+    "name": "font-22",
+    "prop": "font-size",
+    "value": "22px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-24px",
+    "name": "font-24",
+    "prop": "font-size",
+    "value": "24px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-25px",
+    "name": "font-25",
+    "count": 2,
+    "prop": "font-size",
+    "value": "25px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-26px",
+    "name": "font-26",
+    "prop": "font-size",
+    "value": "26px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-28px",
+    "name": "font-28",
+    "prop": "font-size",
+    "value": "28px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-30px",
+    "name": "font-30",
+    "prop": "font-size",
+    "value": "30px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-32px",
+    "name": "font-32",
+    "prop": "font-size",
+    "value": "32px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-34px",
+    "name": "font-34",
+    "prop": "font-size",
+    "value": "34px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-36px",
+    "name": "font-36",
+    "prop": "font-size",
+    "value": "36px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-37px",
+    "name": "font-37",
+    "prop": "font-size",
+    "value": "37px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-38px",
+    "name": "font-38",
+    "prop": "font-size",
+    "value": "38px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-40px",
+    "name": "font-40",
+    "prop": "font-size",
+    "value": "40px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-42px",
+    "name": "font-42",
+    "count": 2,
+    "prop": "font-size",
+    "value": "42px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-44px",
+    "name": "font-44",
+    "prop": "font-size",
+    "value": "44px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-46px",
+    "name": "font-46",
+    "prop": "font-size",
+    "value": "46px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-48px",
+    "name": "font-48",
+    "prop": "font-size",
+    "value": "48px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-50px",
+    "name": "font-50",
+    "prop": "font-size",
+    "value": "50px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-52px",
+    "name": "font-52",
+    "prop": "font-size",
+    "value": "52px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-56px",
+    "name": "font-56",
+    "prop": "font-size",
+    "value": "56px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-60px",
+    "name": "font-60",
+    "prop": "font-size",
+    "value": "60px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-66px",
+    "name": "font-66",
+    "prop": "font-size",
+    "value": "66px",
+    "description": ""
+  },
+  {
+    "prefix": "font-size-72px",
+    "name": "font-72",
+    "prop": "font-size",
+    "value": "72px",
+    "description": ""
+  }
+]

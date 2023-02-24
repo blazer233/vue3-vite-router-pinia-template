@@ -1,0 +1,429 @@
+[
+  {
+    "prefix": "transform-origin-0-0",
+    "name": "transform-origin-0-0",
+    "prop": "transform-origin",
+    "value": "0 0",
+    "description": "设置2D转换的中心位置为元素左上角,效果同left top"
+  },
+  {
+    "prefix": "transform-origin-0-top",
+    "name": "transform-origin-0-top",
+    "prop": "transform-origin",
+    "value": "0 top",
+    "description": "设置2D转换的中心位置为元素左上角,效果同left top"
+  },
+  {
+    "prefix": "transform-origin-0-100%",
+    "name": "transform-origin-0-100p",
+    "prop": "transform-origin",
+    "value": "0 100%",
+    "description": "设置2D转换的中心位置为元素左下角"
+  },
+  {
+    "prefix": "transform-origin-100%-0",
+    "name": "transform-origin-100p-0",
+    "prop": "transform-origin",
+    "value": "100% 0",
+    "description": "设置2D转换的中心位置为元素右上角"
+  },
+  {
+    "prefix": "transform-origin-left-top",
+    "name": "transform-origin-left-top",
+    "prop": "transform-origin",
+    "value": "left top",
+    "description": "设置2D转换的中心位置为元素左上角,效果同 0 0"
+  },
+  {
+    "prefix": "transform-origin-center-center",
+    "name": "transform-origin-center-center",
+    "prop": "transform-origin",
+    "value": "center center",
+    "description": "设置2D转换的中心位置为元素中心点"
+  },
+  {
+    "prefix": "transform-origin-center-0",
+    "name": "transform-origin-center-0",
+    "prop": "transform-origin",
+    "value": "center 0",
+    "description": "设置2D转换的中心位置为元素正上方中心点"
+  },
+  {
+    "prefix": "transform-scale-0d5",
+    "name": "scale-0d5",
+    "prop": "transform",
+    "value": "scale(0.5)",
+    "description": "将元素整体缩放一半的比例"
+  },
+  {
+    "prefix": "transform-scale-1",
+    "name": "scale-1",
+    "prop": "transform",
+    "value": "scale(1)",
+    "description": "将元素整体缩放比例设置成其初始大小"
+  },
+  {
+    "prefix": "transform-scaleX-n1",
+    "name": "scaleX-n1",
+    "prop": "transform",
+    "value": "scaleX(-1)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-scaleX-0d5",
+    "name": "scaleX-0d5",
+    "prop": "transform",
+    "value": "scaleX(0.5)",
+    "description": "作用于X轴,将元素缩放一半的比例"
+  },
+  {
+    "prefix": "transform-scaleY-0d5",
+    "name": "scaleY-0d5",
+    "prop": "transform",
+    "value": "scaleY(0.5)",
+    "description": "作用于Y轴,将元素缩放一半的比例"
+  },
+  {
+    "prefix": "transform-rotate-n315deg",
+    "name": "rotate-n315",
+    "prop": "transform",
+    "value": "rotate(-315deg)",
+    "description": "旋转至逆时针315度"
+  },
+  {
+    "prefix": "transform-rotate-n180deg",
+    "name": "rotate-n180",
+    "prop": "transform",
+    "value": "rotate(-180deg)",
+    "description": "旋转至逆时针180度"
+  },
+  {
+    "prefix": "transform-rotate-n90deg",
+    "name": "rotate-n90",
+    "prop": "transform",
+    "value": "rotate(-90deg)",
+    "description": "旋转至逆时针90度"
+  },
+  {
+    "prefix": "transform-rotate-n45deg",
+    "name": "rotate-n45",
+    "prop": "transform",
+    "value": "rotate(-45deg)",
+    "description": "旋转至顺时针45度"
+  },
+  {
+    "prefix": "transform-rotate-0",
+    "name": "rotate-0",
+    "prop": "transform",
+    "value": "rotate(0)",
+    "description": "旋转至顺时针0度"
+  },
+  {
+    "prefix": "transform-rotate-45deg",
+    "name": "rotate-45",
+    "prop": "transform",
+    "value": "rotate(45deg)",
+    "description": "旋转至顺时针45度"
+  },
+  {
+    "prefix": "transform-rotate-90deg",
+    "name": "rotate-90",
+    "prop": "transform",
+    "value": "rotate(90deg)",
+    "description": "旋转至顺时针90度"
+  },
+  {
+    "prefix": "transform-rotate-180deg",
+    "name": "rotate-180",
+    "prop": "transform",
+    "value": "rotate(180deg)",
+    "description": "旋转至顺时针180度"
+  },
+  {
+    "prefix": "transform-rotateY-180deg",
+    "name": "rotateY-180deg",
+    "prop": "transform",
+    "value": "rotateY(180deg)",
+    "description": "沿Y轴顺时针旋转180度"
+  },
+  {
+    "prefix": "transform-translateX-n100%",
+    "name": "translateX-n100p",
+    "prop": "transform",
+    "value": "translateX(-100%)",
+    "description": "元素沿X轴往自身左侧位移,位移距离为元素在X轴上所占区域大小"
+  },
+  {
+    "prefix": "transform-translateX-n50%",
+    "name": "translateX-n50p",
+    "prop": "transform",
+    "value": "translateX(-50%)",
+    "description": "元素沿X轴往自身左侧位移,位移距离为元素在X轴上所占区域大小的一半"
+  },
+  {
+    "prefix": "transform-translateX-n8px",
+    "name": "transform-translateX-n8",
+    "prop": "transform",
+    "value": "translateX(-8px)",
+    "description": "元素沿X轴往自身左侧位移8px"
+  },
+  {
+    "prefix": "transform-translateX-0",
+    "name": "translateX-0",
+    "prop": "transform",
+    "value": "translateX(0)",
+    "description": "元素沿X轴回到初始位置"
+  },
+  {
+    "prefix": "transform-translateX-50%",
+    "name": "translateX-50p",
+    "prop": "transform",
+    "value": "translateX(50%)",
+    "description": "元素沿X轴往自身右侧位移,位移距离为元素在X轴上所占区域大小的一半"
+  },
+  {
+    "prefix": "transform-translateX-100%",
+    "name": "translateX-100p",
+    "prop": "transform",
+    "value": "translateX(100%)",
+    "description": "元素沿X轴往自身右侧位移,位移距离为元素在X轴上所占区域大小"
+  },
+  {
+    "prefix": "transform-translateY-n100%",
+    "name": "translateY-n100p",
+    "prop": "transform",
+    "value": "translateY(-100%)",
+    "description": "元素沿Y轴往自身上方位移,位移距离为元素在Y轴上所占区域大小"
+  },
+  {
+    "prefix": "transform-translateY-n50%",
+    "name": "translateY-n50p",
+    "prop": "transform",
+    "value": "translateY(-50%)",
+    "description": "元素沿Y轴往自身上方位移,位移距离为元素在Y轴上所占区域大小的一半"
+  },
+  {
+    "prefix": "transform-translateY-0",
+    "name": "translateY-0",
+    "prop": "transform",
+    "value": "translateY(0)",
+    "description": "元素沿Y轴位移到自身原来所在的位置"
+  },
+  {
+    "prefix": "transform-translateY-50%",
+    "name": "translateY-50p",
+    "prop": "transform",
+    "value": "translateY(50%)",
+    "description": "元素沿Y轴往自身下方位移,位移距离为元素在Y轴上所占区域大小的一半"
+  },
+  {
+    "prefix": "transform-translateY-100%",
+    "name": "translateY-100p",
+    "prop": "transform",
+    "value": "translateY(100%)",
+    "description": "元素沿Y轴往自身下方位移,位移距离为元素在Y轴上所占区域大小"
+  },
+  {
+    "prefix": "transform-translateY-4px",
+    "name": "translateY-4",
+    "prop": "transform",
+    "value": "translateY(4px)",
+    "description": "元素沿Y轴往自身下方位移4px"
+  },
+  {
+    "prefix": "transform-translate-n50%-n50%",
+    "name": "translate-n50p-n50p",
+    "prop": "transform",
+    "value": "translate(-50%, -50%)",
+    "description": "元素沿X轴和Y轴往自身左上方位移,位移距离为元素在X轴和Y轴上所占区域的一半"
+  },
+  {
+    "prefix": "transform-translate-n50%-0",
+    "name": "translate-n50p-0",
+    "prop": "transform",
+    "value": "translate(-50%, 0)",
+    "description": "元素沿X轴往自身左侧位移到其在X轴上所占区域的一半位置,沿Y轴位移回到自身初始位置"
+  },
+  {
+    "prefix": "transform-translate-0-n50%",
+    "name": "translate-0-n50p",
+    "prop": "transform",
+    "value": "translate(0, -50%)",
+    "description": "元素沿X轴位移回到自身初始位置,沿Y轴往自身左上方位移到其在Y轴上所占区域的一半位置"
+  },
+  {
+    "prefix": "transform-translate-0-0",
+    "name": "translate-0-0",
+    "prop": "transform",
+    "value": "translate(0, 0)",
+    "description": "元素沿X轴和Y轴位移回到自身初始位置"
+  },
+  {
+    "prefix": "transform-translate3d-0-0-0",
+    "name": "transform-translate3d-0-0-0",
+    "count": 17,
+    "prop": "transform",
+    "value": "translate3d(0, 0, 0)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-rotate-0deg",
+    "name": "transform-rotate-0deg",
+    "count": 16,
+    "prop": "transform",
+    "value": "rotate(0deg)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-skew-n8deg",
+    "name": "transform-skew-n8deg",
+    "count": 2,
+    "prop": "transform",
+    "value": "skew(-8deg)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translate3d-0-n100vh-0",
+    "name": "transform-translate3d-0-n100vh-0",
+    "count": 11,
+    "prop": "transform",
+    "value": "translate3d(0, -100vh, 0)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateY-0%",
+    "name": "transform-translateY-0p",
+    "count": 39,
+    "prop": "transform",
+    "value": "translateY(0%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-skew-n8deg-translate-n50%-n50%",
+    "name": "transform-skew-n8deg-translate-n50p-n50p",
+    "count": 10,
+    "prop": "transform",
+    "value": "skew(-8deg) translate(-50%, -50%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateX-0%",
+    "name": "transform-translateX-0p",
+    "count": 5,
+    "prop": "transform",
+    "value": "translateX(0%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translate-n50%-n50%",
+    "name": "transform-translate-n50p-n50p",
+    "count": 5,
+    "prop": "transform",
+    "value": "translate(-50%,-50%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translate-70%-n70%",
+    "name": "transform-translate-70p-n70p",
+    "count": 4,
+    "prop": "transform",
+    "value": "translate(70%, -70%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-scaleY-0d5-translateY-n50%",
+    "name": "transform-scaleY-0d5-translateY-n50p",
+    "count": 4,
+    "prop": "transform",
+    "value": "scaleY(0.5) translateY(-50%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translate-n50%-0%",
+    "name": "transform-translate-n50p-0p",
+    "count": 2,
+    "prop": "transform",
+    "value": "translate(-50%, 0%)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateY-n50%-scaleY-0d5",
+    "name": "transform-translateY-n50p-scaleY-0d5",
+    "count": 2,
+    "prop": "transform",
+    "value": "translateY(-50%) scaleY(0.5)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateY-n90px",
+    "name": "transform-translateY-n90",
+    "count": 8,
+    "prop": "transform",
+    "value": "translateY(-90px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-scale-0d95-translateY-n40px",
+    "name": "transform-scale-0d95-translateY-n40",
+    "count": 4,
+    "prop": "transform",
+    "value": "scale(0.95) translateY(-40px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-scale-0d9-translateY-n80px",
+    "name": "transform-scale-0d9-translateY-n80",
+    "count": 4,
+    "prop": "transform",
+    "value": "scale(0.9) translateY(-80px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateY-n50px",
+    "name": "transform-translateY-n50",
+    "count": 3,
+    "prop": "transform",
+    "value": "translateY(-50px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-scaleY-0d5-translate-24px",
+    "name": "transform-scaleY-0d5-translate-24",
+    "count": 2,
+    "prop": "transform",
+    "value": "scaleY(0.5) translate(24px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateX-12px",
+    "name": "transform-translateX-12",
+    "count": 2,
+    "prop": "transform",
+    "value": "translateX(12px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-translateX-n16px",
+    "name": "transform-translateX-n16",
+    "count": 2,
+    "prop": "transform",
+    "value": "translateX(-16px)",
+    "description": ""
+  },
+  {
+    "prefix": "transform-origin-right-center",
+    "name": "transform-origin-right-center",
+    "count": 5,
+    "prop": "transform-origin",
+    "value": "right center",
+    "description": ""
+  },
+  {
+    "prefix": "transform-origin-50vw-50vw",
+    "name": "transform-origin-50vw-50vw",
+    "count": 2,
+    "prop": "transform-origin",
+    "value": "50vw 50vw",
+    "description": ""
+  }
+]

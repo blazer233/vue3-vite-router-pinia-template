@@ -1,0 +1,349 @@
+[
+  {
+    "prefix": "line-height-inherit",
+    "name": "line-height-inherit",
+    "prop": "line-height",
+    "value": "inherit",
+    "description": "元素行高属性继承自父辈元素"
+  },
+  {
+    "prefix": "line-height-1",
+    "name": "line-height-1",
+    "prop": "line-height",
+    "value": "1",
+    "description": "元素行高跟文字大小保持一致"
+  },
+  {
+    "prefix": "line-height-1d41176471",
+    "name": "line-height-1d41176471x",
+    "count": 16,
+    "prop": "line-height",
+    "value": "1.41176471",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-1d5",
+    "name": "line-height-1d5",
+    "prop": "line-height",
+    "value": "1.5",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-1d6",
+    "name": "line-height-1d6",
+    "prop": "line-height",
+    "value": "1.6",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-1d7",
+    "name": "line-height-1d7",
+    "prop": "line-height",
+    "value": "1.7",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-1d8",
+    "name": "line-height-1d8x",
+    "count": 2,
+    "prop": "line-height",
+    "value": "1.8",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-2",
+    "name": "line-height-2",
+    "prop": "line-height",
+    "value": "2",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-20px",
+    "name": "line-height-20",
+    "count": 2,
+    "prop": "line-height",
+    "value": "20px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-22px",
+    "name": "line-height-22",
+    "prop": "line-height",
+    "value": "22px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-23px",
+    "name": "line-height-23",
+    "prop": "line-height",
+    "value": "23px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-24px",
+    "name": "line-height-24",
+    "prop": "line-height",
+    "value": "24px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-26px",
+    "name": "line-height-26",
+    "count": 2,
+    "prop": "line-height",
+    "value": "26px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-28px",
+    "name": "line-height-28",
+    "prop": "line-height",
+    "value": "28px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-30px",
+    "name": "line-height-30",
+    "prop": "line-height",
+    "value": "30px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-32px",
+    "name": "line-height-32",
+    "prop": "line-height",
+    "value": "32px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-33px",
+    "name": "line-height-33",
+    "prop": "line-height",
+    "value": "33px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-34px",
+    "name": "line-height-34",
+    "prop": "line-height",
+    "value": "34px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-36px",
+    "name": "line-height-36",
+    "prop": "line-height",
+    "value": "36px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-37px",
+    "name": "line-height-37",
+    "prop": "line-height",
+    "value": "37px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-38px",
+    "name": "line-height-38",
+    "prop": "line-height",
+    "value": "38px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-39px",
+    "name": "line-height-39",
+    "prop": "line-height",
+    "value": "39px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-40px",
+    "name": "line-height-40",
+    "prop": "line-height",
+    "value": "40px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-42px",
+    "name": "line-height-42",
+    "prop": "line-height",
+    "value": "42px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-43px",
+    "name": "line-height-43",
+    "prop": "line-height",
+    "value": "43px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-44px",
+    "name": "line-height-44",
+    "prop": "line-height",
+    "value": "44px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-45px",
+    "name": "line-height-45",
+    "prop": "line-height",
+    "value": "45px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-46px",
+    "name": "line-height-46",
+    "prop": "line-height",
+    "value": "46px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-47px",
+    "name": "line-height-47",
+    "prop": "line-height",
+    "value": "47px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-48px",
+    "name": "line-height-48",
+    "prop": "line-height",
+    "value": "48px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-50px",
+    "name": "line-height-50",
+    "prop": "line-height",
+    "value": "50px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-54px",
+    "name": "line-height-54",
+    "prop": "line-height",
+    "value": "54px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-56px",
+    "name": "line-height-56",
+    "prop": "line-height",
+    "value": "56px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-58px",
+    "name": "line-height-58",
+    "prop": "line-height",
+    "value": "58px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-60px",
+    "name": "line-height-60",
+    "prop": "line-height",
+    "value": "60px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-64px",
+    "name": "line-height-64",
+    "prop": "line-height",
+    "value": "64px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-70px",
+    "name": "line-height-70",
+    "prop": "line-height",
+    "value": "70px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-72px",
+    "name": "line-height-72",
+    "prop": "line-height",
+    "value": "72px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-74px",
+    "name": "line-height-74",
+    "prop": "line-height",
+    "value": "74px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-78px",
+    "name": "line-height-78",
+    "prop": "line-height",
+    "value": "78px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-84px",
+    "name": "line-height-84",
+    "prop": "line-height",
+    "value": "84px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-88px",
+    "name": "line-height-88",
+    "prop": "line-height",
+    "value": "88px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-90px",
+    "name": "line-height-90",
+    "prop": "line-height",
+    "value": "90px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-94px",
+    "name": "line-height-94",
+    "prop": "line-height",
+    "value": "94px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-100px",
+    "name": "line-height-100",
+    "prop": "line-height",
+    "value": "100px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-400px",
+    "name": "line-height-400",
+    "prop": "line-height",
+    "value": "400px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-410px",
+    "name": "line-height-410",
+    "prop": "line-height",
+    "value": "410px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-469px",
+    "name": "line-height-469",
+    "prop": "line-height",
+    "value": "469px",
+    "description": ""
+  },
+  {
+    "prefix": "line-height-600px",
+    "name": "line-height-600",
+    "prop": "line-height",
+    "value": "600px",
+    "description": ""
+  }
+]

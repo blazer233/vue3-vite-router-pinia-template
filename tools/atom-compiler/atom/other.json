@@ -1,0 +1,125 @@
+[
+  {
+    "prefix": "pointer-events-none",
+    "name": "pointer-events-none",
+    "prop": "pointer-events",
+    "value": "none",
+    "description": "使元素不对任何指针事件做出反应，比如 :hover 和 click"
+  },
+  {
+    "prefix": "pointer-events-auto",
+    "name": "pointer-events-auto",
+    "prop": "pointer-events",
+    "value": "auto",
+    "description": "元素对指针事件做出反应，比如 :hover 和 click"
+  },
+  {
+    "prefix": "background-size-cover",
+    "name": "bg-size-cover",
+    "prop": "background-size",
+    "value": "cover",
+    "description": ""
+  },
+  {
+    "prefix": "background-size-100%",
+    "name": "bg-size-100p",
+    "prop": "background-size",
+    "value": "100%",
+    "description": ""
+  },
+  {
+    "prefix": "background-size-100%-100%",
+    "name": "bg-size-100p-100p",
+    "prop": "background-size",
+    "value": "100% 100%",
+    "description": ""
+  },
+  {
+    "prefix": "background-size-200%-100%",
+    "name": "bg-size-200p-100p",
+    "prop": "background-size",
+    "value": "200% 100%",
+    "description": ""
+  },
+  {
+    "prefix": "background-size-100%-60px",
+    "name": "bg-size-100p-60",
+    "count": 2,
+    "prop": "background-size",
+    "value": "100% 60px",
+    "description": ""
+  },
+  {
+    "prefix": "background-size-64px-64px",
+    "name": "bg-size-64-64",
+    "count": 18,
+    "prop": "background-size",
+    "value": "64px 64px",
+    "description": ""
+  },
+  {
+    "prefix": "box-shadow-none",
+    "name": "box-shadow-none",
+    "prop": "box-shadow",
+    "value": "none",
+    "description": ""
+  },
+  {
+    "prefix": "outline-none",
+    "name": "outline-none",
+    "prop": "outline",
+    "value": "none",
+    "description": "取消诸如button元素之类的外边线样式"
+  },
+  {
+    "prefix": "filter-blur-10",
+    "name": "filter-blur-10",
+    "prop": "filter",
+    "value": "blur(10)",
+    "description": "设置元素滤镜,模糊半径为10"
+  },
+  {
+    "prefix": "float-left",
+    "name": "float-left",
+    "prop": "float",
+    "value": "left",
+    "description": ""
+  },
+  {
+    "prefix": "cursor-pointer",
+    "name": "cursor-pointer",
+    "count": 2,
+    "prop": "cursor",
+    "value": "pointer",
+    "description": ""
+  },
+  {
+    "prefix": "user-select-none",
+    "name": "user-select-none",
+    "count": 8,
+    "prop": "user-select",
+    "value": "none",
+    "description": ""
+  },
+  {
+    "prefix": "object-fit-cover",
+    "name": "object-fit-cover",
+    "prop": "object-fit",
+    "value": "cover",
+    "description": "控制img图片显示模式: 图片会裁剪，不会拉伸，短边充满控件元素"
+  },
+  {
+    "prefix": "object-fit-contain",
+    "name": "object-fit-contain",
+    "prop": "object-fit",
+    "value": "contain",
+    "description": "控制img图片显示模式: 不会裁剪，不会拉伸，长边充满控件元素"
+  },
+  {
+    "prefix": "object-fit-fill",
+    "name": "object-fit-fill",
+    "prop": "object-fit",
+    "value": "fill",
+    "description": "控制img图片显示模式: 不会裁剪，会拉伸，充满控件元素"
+  }
+]

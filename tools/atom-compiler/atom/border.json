@@ -1,0 +1,93 @@
+[
+  {
+    "prefix": "border-none",
+    "name": "border-none",
+    "prop": "border",
+    "value": "none",
+    "description": "消除边框样式"
+  },
+  {
+    "prefix": "border-0",
+    "name": "border-0",
+    "prop": "border",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "border-unset",
+    "name": "border-unset",
+    "prop": "border",
+    "value": "unset",
+    "description": ""
+  },
+  {
+    "prefix": "border-style-none",
+    "name": "border-style-none",
+    "prop": "border-style",
+    "value": "none",
+    "description": "设置边框线条为 none"
+  },
+  {
+    "prefix": "border-style-dashed",
+    "name": "border-style-dashed",
+    "prop": "border-style",
+    "value": "dashed",
+    "description": "设置边框线条为虚线"
+  },
+  {
+    "prefix": "border-style-solid",
+    "name": "border-style-solid",
+    "prop": "border-style",
+    "value": "solid",
+    "description": "设置边框线条为实线"
+  },
+  {
+    "prefix": "border-color-transparent",
+    "name": "border-color-transparent",
+    "prop": "border-color",
+    "value": "transparent",
+    "description": ""
+  },
+  {
+    "prefix": "border-1px-solid-#e5e5e6",
+    "name": "border-2",
+    "prop": "border",
+    "value": "1px solid #e5e5e6",
+    "description": "常用于设置四个方向的包裹边框线条"
+  },
+  {
+    "prefix": "border-left-1px-solid-#e5e5e6",
+    "name": "border-left-2",
+    "prop": "border-left",
+    "value": "1px solid #e5e5e6",
+    "description": "常用于设置左边方向的边框线条"
+  },
+  {
+    "prefix": "border-right-1px-solid-#e5e5e6",
+    "name": "border-right-2",
+    "prop": "border-right",
+    "value": "1px solid #e5e5e6",
+    "description": "常用于设置右边方向的边框线条"
+  },
+  {
+    "prefix": "border-top-1px-solid-#e5e5e6",
+    "name": "border-top-2",
+    "prop": "border-top",
+    "value": "1px solid #e5e5e6",
+    "description": "常用于设置上边方向的边框线条"
+  },
+  {
+    "prefix": "border-bottom-1px-solid-#e5e5e6",
+    "name": "border-bottom-2",
+    "prop": "border-bottom",
+    "value": "1px solid #e5e5e6",
+    "description": "常用于设置下边方向的边框线条"
+  },
+  {
+    "prefix": "border-bottom-1px-solid-#dfe2eb",
+    "name": "border-bottom-2-dfe2eb",
+    "prop": "border-bottom",
+    "value": "1px solid #dfe2eb",
+    "description": "设置下边框线条,颜色为dfe2eb"
+  }
+]

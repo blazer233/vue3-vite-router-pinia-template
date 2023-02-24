@@ -1,0 +1,233 @@
+[
+  {
+    "prefix": "text-overflow-ellipsis",
+    "name": "ellipsis",
+    "prop": "text-overflow",
+    "value": "ellipsis",
+    "description": ""
+  },
+  {
+    "prefix": "webkit-line-clamp-unset",
+    "name": "webkit-line-clamp-unset",
+    "prop": "-webkit-line-clamp",
+    "value": "unset",
+    "description": "取消省略属性"
+  },
+  {
+    "prefix": "webkit-line-clamp-1",
+    "name": "webkit-line-clamp-1",
+    "prop": "-webkit-line-clamp",
+    "value": "1",
+    "description": "一行省略属性"
+  },
+  {
+    "prefix": "webkit-line-clamp-2",
+    "name": "webkit-line-clamp-2",
+    "prop": "-webkit-line-clamp",
+    "value": "2",
+    "description": "两行省略属性"
+  },
+  {
+    "prefix": "webkit-line-clamp-3",
+    "name": "webkit-line-clamp-3",
+    "prop": "-webkit-line-clamp",
+    "value": "3",
+    "description": "三行省略属性"
+  },
+  {
+    "prefix": "text-align-left",
+    "name": "text-left",
+    "prop": "text-align",
+    "value": "left",
+    "description": ""
+  },
+  {
+    "prefix": "text-align-right",
+    "name": "text-right",
+    "prop": "text-align",
+    "value": "right",
+    "description": ""
+  },
+  {
+    "prefix": "text-align-center",
+    "name": "text-center",
+    "prop": "text-align",
+    "value": "center",
+    "description": ""
+  },
+  {
+    "prefix": "text-align-justify",
+    "name": "text-justify",
+    "prop": "text-align",
+    "value": "justify",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-middle",
+    "name": "vertical-middle",
+    "prop": "vertical-align",
+    "value": "middle",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-top",
+    "name": "vertical-top",
+    "prop": "vertical-align",
+    "value": "top",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-bottom",
+    "name": "vertical-bottom",
+    "prop": "vertical-align",
+    "value": "bottom",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-1",
+    "name": "vertical-align-1",
+    "prop": "vertical-align",
+    "value": "1px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-2",
+    "name": "vertical-align-2",
+    "prop": "vertical-align",
+    "value": "2px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-4",
+    "name": "vertical-align-4",
+    "prop": "vertical-align",
+    "value": "4px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-6",
+    "name": "vertical-align-6",
+    "prop": "vertical-align",
+    "value": "6px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-8",
+    "name": "vertical-align-8",
+    "prop": "vertical-align",
+    "value": "8px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-n2",
+    "name": "vertical-align-n2",
+    "prop": "vertical-align",
+    "value": "-2px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-n4",
+    "name": "vertical-align-n4",
+    "prop": "vertical-align",
+    "value": "-4px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-n6",
+    "name": "vertical-align-n6",
+    "prop": "vertical-align",
+    "value": "-6px",
+    "description": ""
+  },
+  {
+    "prefix": "vertical-align-n8",
+    "name": "vertical-align-n8",
+    "prop": "vertical-align",
+    "value": "-8px",
+    "description": ""
+  },
+  {
+    "prefix": "word-break-normal",
+    "name": "word-break-normal",
+    "prop": "word-break",
+    "value": "normal",
+    "description": ""
+  },
+  {
+    "prefix": "word-break-break-all",
+    "name": "word-break-all",
+    "prop": "word-break",
+    "value": "break-all",
+    "description": ""
+  },
+  {
+    "prefix": "word-break-break-word",
+    "name": "word-break-word",
+    "prop": "word-break",
+    "value": "break-word",
+    "description": ""
+  },
+  {
+    "prefix": "word-wrap-break-word",
+    "name": "word-wrap-break-word",
+    "prop": "word-wrap",
+    "value": "break-word",
+    "description": ""
+  },
+  {
+    "prefix": "word-wrap-normal",
+    "name": "word-wrap-normal",
+    "prop": "word-wrap",
+    "value": "normal",
+    "description": ""
+  },
+  {
+    "prefix": "white-space-nowrap",
+    "name": "white-space-nowrap",
+    "prop": "white-space",
+    "value": "nowrap",
+    "description": ""
+  },
+  {
+    "prefix": "white-space-normal",
+    "name": "white-space-normal",
+    "prop": "white-space",
+    "value": "normal",
+    "description": ""
+  },
+  {
+    "prefix": "white-space-pre",
+    "name": "white-space-pre",
+    "prop": "white-space",
+    "value": "pre",
+    "description": ""
+  },
+  {
+    "prefix": "white-space-initial",
+    "name": "white-space-initial",
+    "prop": "white-space",
+    "value": "initial",
+    "description": ""
+  },
+  {
+    "prefix": "letter-spacing-0",
+    "name": "letter-spacing-0",
+    "prop": "letter-spacing",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "text-decoration-underline",
+    "name": "text-decoration-underline",
+    "prop": "text-decoration",
+    "value": "underline",
+    "description": "设置下划线"
+  },
+  {
+    "prefix": "text-decoration-none",
+    "name": "text-decoration-none",
+    "prop": "text-decoration",
+    "value": "none",
+    "description": "取消下划线"
+  }
+]

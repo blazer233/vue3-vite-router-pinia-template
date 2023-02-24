@@ -1,0 +1,88 @@
+[
+  {
+    "prefix": "overflow-unset",
+    "name": "overflow-unset",
+    "prop": "overflow",
+    "value": "unset",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-hidden",
+    "name": "overflow-hidden",
+    "prop": "overflow",
+    "value": "hidden",
+    "description": "元素内容超出时隐藏"
+  },
+  {
+    "prefix": "overflow-auto",
+    "name": "overflow-auto",
+    "count": 3,
+    "prop": "overflow",
+    "value": "auto",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-x-hidden",
+    "name": "overflow-x-hidden",
+    "prop": "overflow-x",
+    "value": "hidden",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-x-auto",
+    "name": "overflow-x-auto",
+    "prop": "overflow-x",
+    "value": "auto",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-x-overlay",
+    "name": "overflow-x-overlay",
+    "prop": "overflow-x",
+    "value": "overlay",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-y-auto",
+    "name": "overflow-y-auto",
+    "prop": "overflow-y",
+    "value": "auto",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-y-hidden",
+    "name": "overflow-y-hidden",
+    "prop": "overflow-y",
+    "value": "hidden",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-y-overlay",
+    "name": "overflow-y-overlay",
+    "prop": "overflow-y",
+    "value": "overlay",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-y-scroll",
+    "name": "overflow-y-scroll",
+    "prop": "overflow-y",
+    "value": "scroll",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-wrap-break-word",
+    "name": "overflow-wrap-break-word",
+    "prop": "overflow-wrap",
+    "value": "break-word",
+    "description": ""
+  },
+  {
+    "prefix": "overflow-moz-scrollbars-none",
+    "name": "overflow-moz-scrollbars-none",
+    "count": 16,
+    "prop": "overflow",
+    "value": "-moz-scrollbars-none",
+    "description": ""
+  }
+]

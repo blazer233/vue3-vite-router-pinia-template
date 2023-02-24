@@ -1,0 +1,31 @@
+{
+  // 控制是否在键入时自动显示建议
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.suggest.showSnippets": true, // 开启代码片段的建议
+  "editor.suggest.snippetsPreventQuickSuggestions": true, // 控制活动代码片段是否阻止快速建议
+  // 控制代码片段是否与其他建议一起显示及其排列的位置: inline 在其他建议中穿插显示代码片段建议; top 在其他建议上方显示代码片段建议;
+  "editor.snippetSuggestions": "top",
+  // 开启自动修复
+  "editor.codeActionsOnSave": {
+    "source.fixAll": false,
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true
+  },
+  // 保存的时候自动格式化
+  "editor.formatOnSave": true,
+  // 默认格式化工具选择prettier
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // 配置该项，新建文件时默认就是space：2
+  "editor.tabSize": 2,
+  // stylelint校验的文件格式
+  "stylelint.validate": [
+    "css",
+    "less",
+    "vue",
+    "html"
+  ]
+}

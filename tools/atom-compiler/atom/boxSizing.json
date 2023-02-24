@@ -1,0 +1,58 @@
+[
+  {
+    "prefix": "box-sizing-border-box",
+    "name": "border-box",
+    "prop": "box-sizing",
+    "value": "border-box",
+    "description": ""
+  },
+  {
+    "prefix": "box-sizing-content-box",
+    "name": "content-box",
+    "prop": "box-sizing",
+    "value": "content-box",
+    "description": ""
+  },
+  {
+    "prefix": "width-webkit-fit-content",
+    "name": "w-webkit-fit-content",
+    "prop": "width",
+    "value": "-webkit-fit-content",
+    "description": ""
+  },
+  {
+    "prefix": "width-moz-fit-content",
+    "name": "w-moz-fit-content",
+    "prop": "width",
+    "value": "-moz-fit-content",
+    "description": ""
+  },
+  {
+    "prefix": "width-fit-content",
+    "name": "w-fit-content",
+    "prop": "width",
+    "value": "fit-content",
+    "description": ""
+  },
+  {
+    "prefix": "width-webkit-max-content",
+    "name": "w-webkit-max-content",
+    "prop": "width",
+    "value": "-webkit-max-content",
+    "description": ""
+  },
+  {
+    "prefix": "width-moz-max-content",
+    "name": "w-moz-max-content",
+    "prop": "width",
+    "value": "-moz-max-content",
+    "description": ""
+  },
+  {
+    "prefix": "width-max-content",
+    "name": "w-max-content",
+    "prop": "width",
+    "value": "max-content",
+    "description": ""
+  }
+]

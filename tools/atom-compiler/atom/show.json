@@ -1,0 +1,110 @@
+[
+  {
+    "prefix": "visibility-hidden",
+    "name": "visibility-hidden",
+    "prop": "visibility",
+    "value": "hidden",
+    "description": "隐藏元素,但是占用与未隐藏时一样的空间"
+  },
+  {
+    "prefix": "visibility-visible",
+    "name": "visibility-visible",
+    "count": 2,
+    "prop": "visibility",
+    "value": "visible",
+    "description": "使元素变成可见的"
+  },
+  {
+    "prefix": "opacity-0",
+    "name": "opacity-0",
+    "prop": "opacity",
+    "value": "0",
+    "description": "透明度为0,使元素隐藏,不可见"
+  },
+  {
+    "prefix": "opacity-0d04",
+    "name": "opacity-0d04",
+    "count": 2,
+    "prop": "opacity",
+    "value": "0.04",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d06",
+    "name": "opacity-0d06",
+    "count": 2,
+    "prop": "opacity",
+    "value": "0.06",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d2",
+    "name": "opacity-0d2",
+    "prop": "opacity",
+    "value": "0.2",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d3",
+    "name": "opacity-0d3",
+    "prop": "opacity",
+    "value": "0.3",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d4",
+    "name": "opacity-0d4",
+    "prop": "opacity",
+    "value": "0.4",
+    "description": "透明度为0.4,常用于设置元素为禁用状态显示"
+  },
+  {
+    "prefix": "opacity-0d45",
+    "name": "opacity-0d45",
+    "prop": "opacity",
+    "value": "0.45",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d5",
+    "name": "opacity-0d5",
+    "prop": "opacity",
+    "value": "0.5",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d6",
+    "name": "opacity-0d6",
+    "prop": "opacity",
+    "value": "0.6",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d7",
+    "name": "opacity-0d7",
+    "prop": "opacity",
+    "value": "0.7",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d8",
+    "name": "opacity-0d8",
+    "prop": "opacity",
+    "value": "0.8",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-0d85",
+    "name": "opacity-0d85",
+    "prop": "opacity",
+    "value": "0.85",
+    "description": ""
+  },
+  {
+    "prefix": "opacity-1",
+    "name": "opacity-1",
+    "prop": "opacity",
+    "value": "1",
+    "description": "透明度为1,可见"
+  }
+]

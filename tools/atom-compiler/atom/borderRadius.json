@@ -1,0 +1,382 @@
+[
+  {
+    "prefix": "border-radius-unset",
+    "name": "radius-unset",
+    "prop": "border-radius",
+    "value": "unset",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-inherit",
+    "name": "radius-inherit",
+    "prop": "border-radius",
+    "value": "inherit",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-50%",
+    "name": "radius-50p",
+    "prop": "border-radius",
+    "value": "50%",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-100%",
+    "name": "radius-100p",
+    "prop": "border-radius",
+    "value": "100%",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0",
+    "name": "radius-0",
+    "prop": "border-radius",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-4px-4px-0",
+    "name": "radius-0-4-4-0",
+    "prop": "border-radius",
+    "value": "0 4px 4px 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-0-8px-8px",
+    "name": "radius-0-0-8-8",
+    "prop": "border-radius",
+    "value": "0 0 8px 8px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-0-16px-16px",
+    "name": "radius-0-0-16-16",
+    "prop": "border-radius",
+    "value": "0 0 16px 16px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-8px-0-8px",
+    "name": "radius-0-8-0-8",
+    "prop": "border-radius",
+    "value": "0 8px 0 8px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-8px-8px-0",
+    "name": "radius-0-8-8-0",
+    "prop": "border-radius",
+    "value": "0 8px 8px 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-20px-20px-20px",
+    "name": "radius-0-20-20-20",
+    "count": 10,
+    "prop": "border-radius",
+    "value": "0 20px 20px 20px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-4px-3px-4px",
+    "name": "radius-0-4-3-4",
+    "count": 4,
+    "prop": "border-radius",
+    "value": "0 4px 3px 4px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-0-0-8px-8px",
+    "name": "radius-0-0-8-8",
+    "count": 2,
+    "prop": "border-radius",
+    "value": "0 0 8px 8px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-2px",
+    "name": "radius-2",
+    "prop": "border-radius",
+    "value": "2px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-3px",
+    "name": "radius-3",
+    "prop": "border-radius",
+    "value": "3px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-4px",
+    "name": "radius-4",
+    "prop": "border-radius",
+    "value": "4px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-6px",
+    "name": "radius-6",
+    "prop": "border-radius",
+    "value": "6px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-8px",
+    "name": "radius-8",
+    "prop": "border-radius",
+    "value": "8px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-8px-0-0-8px",
+    "name": "radius-8-0-0-8",
+    "prop": "border-radius",
+    "value": "8px 0 0 8px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-8px-0-8px-0",
+    "name": "radius-8-0-8-0",
+    "prop": "border-radius",
+    "value": "8px 0 8px 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-8px-8px-0-0",
+    "name": "radius-8-8-0-0",
+    "prop": "border-radius",
+    "value": "8px 8px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-10px",
+    "name": "radius-10",
+    "prop": "border-radius",
+    "value": "10px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-10px-10px-0-0",
+    "name": "radius-10-10-0-0",
+    "count": 2,
+    "prop": "border-radius",
+    "value": "10px 10px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-12px",
+    "name": "radius-12",
+    "prop": "border-radius",
+    "value": "12px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-12px-12px-0-0",
+    "name": "radius-12-12-0-0",
+    "prop": "border-radius",
+    "value": "12px 12px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-13px",
+    "name": "radius-13",
+    "count": 2,
+    "prop": "border-radius",
+    "value": "13px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-15px",
+    "name": "radius-15",
+    "prop": "border-radius",
+    "value": "15px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-16px",
+    "name": "radius-16",
+    "prop": "border-radius",
+    "value": "16px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-16px-16px-0-0",
+    "name": "radius-16-16-0-0",
+    "prop": "border-radius",
+    "value": "16px 16px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-16px-0-20px-20px",
+    "name": "radius-16-0-20-20",
+    "count": 10,
+    "prop": "border-radius",
+    "value": "16px 0 20px 20px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-20px",
+    "name": "border-radius-20px",
+    "prop": "border-radius",
+    "value": "20px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-20px-20px-0-0",
+    "name": "radius-20-20-0-0",
+    "prop": "border-radius",
+    "value": "20px 20px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-24px",
+    "name": "radius-24",
+    "prop": "border-radius",
+    "value": "24px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-24px-24px-0-0",
+    "name": "radius-24-24-0-0",
+    "count": 8,
+    "prop": "border-radius",
+    "value": "24px 24px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-24px-24px-0-0",
+    "name": "radius-24-24-0-0",
+    "count": 3,
+    "prop": "border-radius",
+    "value": "24px 24px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-25px",
+    "name": "radius-25",
+    "prop": "border-radius",
+    "value": "25px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-26px",
+    "name": "radius-26",
+    "prop": "border-radius",
+    "value": "26px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-28px",
+    "name": "radius-28",
+    "prop": "border-radius",
+    "value": "28px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-30px",
+    "name": "radius-30",
+    "prop": "border-radius",
+    "value": "30px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-32px",
+    "name": "radius-32",
+    "prop": "border-radius",
+    "value": "32px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-32px-32px-0-0",
+    "name": "radius-32-32-0-0",
+    "prop": "border-radius",
+    "value": "32px 32px 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-35px",
+    "name": "radius-35",
+    "prop": "border-radius",
+    "value": "35px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-36px",
+    "name": "radius-36",
+    "prop": "border-radius",
+    "value": "36px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-40px",
+    "name": "radius-40",
+    "prop": "border-radius",
+    "value": "40px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-44px",
+    "name": "radius-44",
+    "prop": "border-radius",
+    "value": "44px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-45px",
+    "name": "radius-45",
+    "prop": "border-radius",
+    "value": "45px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-48px",
+    "name": "radius-48",
+    "prop": "border-radius",
+    "value": "48px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-50px",
+    "name": "radius-50",
+    "prop": "border-radius",
+    "value": "50px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-56px",
+    "name": "radius-56",
+    "prop": "border-radius",
+    "value": "56px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-70px",
+    "name": "radius-70",
+    "prop": "border-radius",
+    "value": "70px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-72px",
+    "name": "radius-72",
+    "prop": "border-radius",
+    "value": "72px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-90px",
+    "name": "radius-90",
+    "prop": "border-radius",
+    "value": "90px",
+    "description": ""
+  },
+  {
+    "prefix": "border-radius-118px",
+    "name": "radius-118",
+    "count": 8,
+    "prop": "border-radius",
+    "value": "118px",
+    "description": ""
+  }
+]

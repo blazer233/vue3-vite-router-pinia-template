@@ -1,0 +1,422 @@
+[
+  {
+    "prefix": "color-transparent",
+    "name": "c-transparent",
+    "prop": "color",
+    "value": "transparent",
+    "description": "透明颜色"
+  },
+  {
+    "prefix": "color-#000000",
+    "name": "c-000000",
+    "prop": "color",
+    "value": "#000000",
+    "description": "主题黑色"
+  },
+  {
+    "prefix": "color-black",
+    "name": "c-black",
+    "prop": "color",
+    "value": "black",
+    "description": "纯黑色"
+  },
+  {
+    "prefix": "color-#333333",
+    "name": "c-333333",
+    "prop": "color",
+    "value": "#333333",
+    "description": "淡黑色,常用于页面内容文字"
+  },
+  {
+    "prefix": "color-#222222",
+    "name": "c-222222",
+    "prop": "color",
+    "value": "#222222",
+    "description": "较深黑色"
+  },
+  {
+    "prefix": "color-#2b2b2b",
+    "name": "c-2b2b2b",
+    "prop": "color",
+    "value": "#2b2b2b",
+    "description": "较深黑色2"
+  },
+  {
+    "prefix": "color-#ffffff",
+    "name": "c-white",
+    "prop": "color",
+    "value": "#ffffff",
+    "description": "主题白色"
+  },
+  {
+    "prefix": "color-#265cf0",
+    "name": "c-blue",
+    "prop": "color",
+    "value": "#265cf0",
+    "description": "主题蓝色,常用于链接文字的颜色"
+  },
+  {
+    "prefix": "color-#2657f0",
+    "name": "c-2657f0",
+    "prop": "color",
+    "value": "#2657f0",
+    "description": "蓝色1"
+  },
+  {
+    "prefix": "color-#2355de",
+    "name": "c-2355de",
+    "prop": "color",
+    "value": "#2355de",
+    "description": "蓝色2"
+  },
+  {
+    "prefix": "color-#1f56ff",
+    "name": "c-1f56ff",
+    "prop": "color",
+    "value": "#1f56ff",
+    "description": "蓝色3"
+  },
+  {
+    "prefix": "color-#335ee8",
+    "name": "c-335ee8",
+    "prop": "color",
+    "value": "#335ee8",
+    "description": "蓝色4"
+  },
+  {
+    "prefix": "color-#4187ff",
+    "name": "c-4187ff",
+    "prop": "color",
+    "value": "#4187ff",
+    "description": "淡蓝色"
+  },
+  {
+    "prefix": "color-#8db7ff",
+    "name": "c-8db7ff",
+    "prop": "color",
+    "value": "#8db7ff",
+    "description": "极浅蓝色"
+  },
+  {
+    "prefix": "color-#ed4343",
+    "name": "c-ed4343",
+    "prop": "color",
+    "value": "#ed4343",
+    "description": "主题红色，常用于突出显示一些重要信息"
+  },
+  {
+    "prefix": "color-red",
+    "name": "c-red",
+    "prop": "color",
+    "value": "red",
+    "description": "纯红色"
+  },
+  {
+    "prefix": "color-#f03e3e",
+    "name": "c-f03e3e",
+    "prop": "color",
+    "value": "#f03e3e",
+    "description": "红色"
+  },
+  {
+    "prefix": "color-#fa9128",
+    "name": "c-fa9128",
+    "prop": "color",
+    "value": "#fa9128",
+    "description": "主题橙色"
+  },
+  {
+    "prefix": "color-#fc9c00",
+    "name": "c-fc9c00",
+    "prop": "color",
+    "value": "#fc9c00",
+    "description": "橙色"
+  },
+  {
+    "prefix": "color-#c66302",
+    "name": "c-c66302",
+    "prop": "color",
+    "value": "#c66302",
+    "description": "深橙色"
+  },
+  {
+    "prefix": "color-#ffd8a0",
+    "name": "c-ffd8a0",
+    "prop": "color",
+    "value": "#ffd8a0",
+    "description": "淡橙色"
+  },
+  {
+    "prefix": "color-#3cc947",
+    "name": "c-green",
+    "prop": "color",
+    "value": "#3cc947",
+    "description": "主题绿色，常用于绿色的指标数字绿色"
+  },
+  {
+    "prefix": "color-#28ca2a",
+    "name": "c-28ca2a",
+    "prop": "color",
+    "value": "#28ca2a",
+    "description": "绿色"
+  },
+  {
+    "prefix": "color-#e5e5e6",
+    "name": "c-e5e5e6",
+    "prop": "color",
+    "value": "#e5e5e6",
+    "description": "灰色,常用于边框线颜色"
+  },
+  {
+    "prefix": "color-#666666",
+    "name": "c-666666",
+    "prop": "color",
+    "value": "#666666",
+    "description": "正常灰色,常用于icon和提示文字"
+  },
+  {
+    "prefix": "color-#999999",
+    "name": "c-999999",
+    "prop": "color",
+    "value": "#999999",
+    "description": "深灰色1,常用于弱提示文字"
+  },
+  {
+    "prefix": "color-#888888",
+    "name": "c-888888",
+    "prop": "color",
+    "value": "#888888",
+    "description": "深灰色2,常用于弱提示文字"
+  },
+  {
+    "prefix": "color-#979797",
+    "name": "c-979797",
+    "prop": "color",
+    "value": "#979797",
+    "description": "深灰色3,常用于弱提示文字"
+  },
+  {
+    "prefix": "color-#939393",
+    "name": "c-939393",
+    "prop": "color",
+    "value": "#939393",
+    "description": "深灰色4"
+  },
+  {
+    "prefix": "color-#8d8d8d",
+    "name": "c-8d8d8d",
+    "prop": "color",
+    "value": "#8d8d8d",
+    "description": "深灰色5"
+  },
+  {
+    "prefix": "color-#787c88",
+    "name": "c-787c88",
+    "prop": "color",
+    "value": "#787c88",
+    "description": "深灰色6"
+  },
+  {
+    "prefix": "color-#9d9d9d",
+    "name": "c-9d9d9d",
+    "prop": "color",
+    "value": "#9d9d9d",
+    "description": "深灰色7"
+  },
+  {
+    "prefix": "color-#cccccc",
+    "name": "c-ccc",
+    "prop": "color",
+    "value": "#cccccc",
+    "description": "极浅灰色,常用于不重要的信息"
+  },
+  {
+    "prefix": "color-#a1a5b3",
+    "name": "c-a1a5b3",
+    "prop": "color",
+    "value": "#a1a5b3",
+    "description": "较淡灰色"
+  },
+  {
+    "prefix": "color-#8a97b8",
+    "name": "c-8a97b8",
+    "prop": "color",
+    "value": "#8a97b8",
+    "description": "棕灰色"
+  },
+  {
+    "prefix": "color-#dfe2eb",
+    "name": "c-dfe2eb",
+    "prop": "color",
+    "value": "#dfe2eb",
+    "description": "淡灰色"
+  },
+  {
+    "prefix": "color-#e5e5e5",
+    "name": "c-e5e5e5",
+    "prop": "color",
+    "value": "#e5e5e5",
+    "description": "淡灰色2"
+  },
+  {
+    "prefix": "color-#bfc0c2",
+    "name": "c-bfc0c2",
+    "prop": "color",
+    "value": "#bfc0c2",
+    "description": "淡灰色3"
+  },
+  {
+    "prefix": "color-#c2c4cc",
+    "name": "c-c2c4cc",
+    "prop": "color",
+    "value": "#c2c4cc",
+    "description": "淡灰色4"
+  },
+  {
+    "prefix": "color-#f2f5f3",
+    "name": "c-f2f5f3",
+    "prop": "color",
+    "value": "#f2f5f3",
+    "description": "淡白色1"
+  },
+  {
+    "prefix": "color-#e8edfb",
+    "name": "c-e8edfb",
+    "prop": "color",
+    "value": "#e8edfb",
+    "description": "淡白色2"
+  },
+  {
+    "prefix": "color-#8e9aba",
+    "name": "c-8e9aba",
+    "prop": "color",
+    "value": "#8e9aba",
+    "description": "淡蓝灰色"
+  },
+  {
+    "prefix": "color-#d4defc",
+    "name": "c-d4defc",
+    "prop": "color",
+    "value": "#d4defc",
+    "description": "极淡蓝灰色"
+  },
+  {
+    "prefix": "color-#576b95",
+    "name": "c-576b95",
+    "prop": "color",
+    "value": "#576b95",
+    "description": "蓝灰色1"
+  },
+  {
+    "prefix": "color-#4767bd",
+    "name": "c-4767bd",
+    "prop": "color",
+    "value": "#4767bd",
+    "description": "蓝灰色2"
+  },
+  {
+    "prefix": "color-#357ae0",
+    "name": "c-357ae0",
+    "prop": "color",
+    "value": "#357ae0",
+    "description": "蓝灰色3"
+  },
+  {
+    "prefix": "color-#6287ff",
+    "name": "c-6287ff",
+    "prop": "color",
+    "value": "#6287ff",
+    "description": ""
+  },
+  {
+    "prefix": "color-#f2f5fe",
+    "name": "c-f2f5fe",
+    "prop": "color",
+    "value": "#f2f5fe",
+    "description": ""
+  },
+  {
+    "prefix": "color-#2bb3ff",
+    "name": "c-2bb3ff",
+    "prop": "color",
+    "value": "#2bb3ff",
+    "description": ""
+  },
+  {
+    "prefix": "color-#f0f0f0",
+    "name": "c-f0f0f0",
+    "prop": "color",
+    "value": "#f0f0f0",
+    "description": ""
+  },
+  {
+    "prefix": "color-#ff9936",
+    "name": "c-ff9936",
+    "prop": "color",
+    "value": "#ff9936",
+    "description": ""
+  },
+  {
+    "prefix": "color-#ff9933",
+    "name": "c-ff9933",
+    "prop": "color",
+    "value": "#ff9933",
+    "description": ""
+  },
+  {
+    "prefix": "color-#0000ff",
+    "name": "c-0000ff",
+    "prop": "color",
+    "value": "#0000ff",
+    "description": ""
+  },
+  {
+    "prefix": "color-#3bbf13",
+    "name": "c-3bbf13",
+    "prop": "color",
+    "value": "#3bbf13",
+    "description": ""
+  },
+  {
+    "prefix": "color-#0ed78f",
+    "name": "c-0ed78f",
+    "prop": "color",
+    "value": "#0ed78f",
+    "description": ""
+  },
+  {
+    "prefix": "color-#007934",
+    "name": "c-007934",
+    "prop": "color",
+    "value": "#007934",
+    "description": ""
+  },
+  {
+    "prefix": "color-#6381e1",
+    "name": "c-6381e1",
+    "prop": "color",
+    "value": "#6381e1",
+    "description": ""
+  },
+  {
+    "prefix": "color-#919dc5",
+    "name": "c-919dc5",
+    "prop": "color",
+    "value": "#919dc5",
+    "description": ""
+  },
+  {
+    "prefix": "color-#3a3a3a",
+    "name": "c-3a3a3a",
+    "prop": "color",
+    "value": "#3a3a3a",
+    "description": "深黑色，较#333333浅一点"
+  },
+  {
+    "prefix": "color-#484848",
+    "name": "c-484848",
+    "prop": "color",
+    "value": "#484848",
+    "description": "深黑色，较#333333更浅一点"
+  }
+]

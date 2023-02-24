@@ -1,0 +1,212 @@
+[
+  {
+    "prefix": "border-none-after",
+    "name": "border-none-after",
+    "pseudo": "after",
+    "props": [
+      {
+        "prop": "border",
+        "value": "none"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】border-none-after",
+      "给伪元素 after 取消边框线条的样式，可用于重置按钮之类元素默认的边框",
+      "属性详情如下:",
+      ".border-none-after::after {",
+      "  border: none;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-none-before",
+    "name": "border-none-before",
+    "pseudo": "before",
+    "props": [
+      {
+        "prop": "border",
+        "value": "none"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】border-none-before",
+      "给伪元素 before 取消边框线条的样式，可用于重置按钮之类元素默认的边框",
+      "属性详情如下:",
+      ".border-none-before::before {",
+      "  border: none;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "pointer-events-none-after",
+    "name": "pointer-events-none-after",
+    "pseudo": "after",
+    "props": [
+      {
+        "prop": "pointer-events",
+        "value": "none"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "pointer-events-none-after",
+      "给伪元素 after 取消指针事件响应",
+      "(比如 :hover 和 click)",
+      "属性详情如下:",
+      ".pointer-events-none-after::after {",
+      "  pointer-events: none;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "pointer-events-none-before",
+    "name": "pointer-events-none-before",
+    "pseudo": "before",
+    "props": [
+      {
+        "prop": "pointer-events",
+        "value": "none"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "pointer-events-none-before",
+      "给伪元素 before 取消指针事件响应",
+      "(比如 :hover 和 click)",
+      "属性详情如下:",
+      ".pointer-events-none-before::before {",
+      "  pointer-events: none;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-0-after",
+    "name": "radius-0-after",
+    "pseudo": "after",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "0"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-0-after",
+      "给伪元素 after 设置圆角属性",
+      "属性详情如下:",
+      ".radius-0-after::after {",
+      "  border-radius: 0;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-0-before",
+    "name": "radius-0-before",
+    "pseudo": "before",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "0"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-0-before",
+      "给伪元素 before 设置圆角属性",
+      "属性详情如下:",
+      ".radius-0-before::before {",
+      "  border-radius: 0;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-50p-after",
+    "name": "radius-50p-after",
+    "pseudo": "after",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "50%"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-50p-after",
+      "给伪元素 after 设置圆角属性",
+      "属性详情如下:",
+      ".radius-50p-after::after {",
+      "  border-radius: 50%;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-50p-before",
+    "name": "radius-50p-before",
+    "pseudo": "before",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "50%"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-50p-before",
+      "给伪元素 before 设置圆角属性",
+      "属性详情如下:",
+      ".radius-50p-before::before {",
+      "  border-radius: 50%;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-100p-after",
+    "name": "radius-100p-after",
+    "pseudo": "after",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "100%"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-100p-after",
+      "给伪元素 after 设置圆角属性",
+      "属性详情如下:",
+      ".radius-100p-after::after {",
+      "  border-radius: 100%;",
+      "}"
+    ]
+  },
+  {
+    "prefix": "border-radius-100p-before",
+    "name": "radius-100p-before",
+    "pseudo": "before",
+    "props": [
+      {
+        "prop": "border-radius",
+        "value": "100%"
+      }
+    ],
+    "type": "gather",
+    "description": [
+      "【伪元素设置属性】",
+      "radius-100p-before",
+      "给伪元素 before 设置圆角属性",
+      "属性详情如下:",
+      ".radius-100p-before::before {",
+      "  border-radius: 100%;",
+      "}"
+    ]
+  }
+]

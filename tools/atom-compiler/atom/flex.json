@@ -1,0 +1,528 @@
+[
+  {
+    "prefix": "flex-unset",
+    "name": "flex-unset",
+    "prop": "flex",
+    "value": "unset",
+    "description": ""
+  },
+  {
+    "prefix": "flex-none",
+    "name": "flex-none",
+    "prop": "flex",
+    "value": "none",
+    "description": ""
+  },
+  {
+    "prefix": "flex-direction-column",
+    "name": "flex-column",
+    "prop": "flex-direction",
+    "value": "column",
+    "description": ""
+  },
+  {
+    "prefix": "flex-direction-row",
+    "name": "flex-row",
+    "prop": "flex-direction",
+    "value": "row",
+    "description": ""
+  },
+  {
+    "prefix": "flex-wrap",
+    "name": "flex-wrap",
+    "prop": "flex-wrap",
+    "value": "wrap",
+    "description": ""
+  },
+  {
+    "prefix": "flex-wrap-nowrap",
+    "name": "flex-nowrap",
+    "prop": "flex-wrap",
+    "value": "nowrap",
+    "description": ""
+  },
+  {
+    "prefix": "align-items-center",
+    "name": "align-items-center",
+    "prop": "align-items",
+    "value": "center",
+    "description": ""
+  },
+  {
+    "prefix": "align-items-baseline",
+    "name": "align-items-baseline",
+    "prop": "align-items",
+    "value": "baseline",
+    "description": ""
+  },
+  {
+    "prefix": "align-items-flex-start",
+    "name": "align-items-flex-start",
+    "prop": "align-items",
+    "value": "flex-start",
+    "description": ""
+  },
+  {
+    "prefix": "align-items-flex-end",
+    "name": "align-items-flex-end",
+    "prop": "align-items",
+    "value": "flex-end",
+    "description": ""
+  },
+  {
+    "prefix": "align-items-stretch",
+    "name": "align-items-stretch",
+    "prop": "align-items",
+    "value": "stretch",
+    "description": ""
+  },
+  {
+    "prefix": "align-self-center",
+    "name": "align-self-center",
+    "prop": "align-self",
+    "value": "center",
+    "description": ""
+  },
+  {
+    "prefix": "align-self-flex-start",
+    "name": "align-self-start",
+    "prop": "align-self",
+    "value": "flex-start",
+    "description": ""
+  },
+  {
+    "prefix": "align-self-flex-end",
+    "name": "align-self-end",
+    "prop": "align-self",
+    "value": "flex-end",
+    "description": ""
+  },
+  {
+    "prefix": "align-content-flex-start",
+    "name": "align-content-start",
+    "prop": "align-content",
+    "value": "flex-start",
+    "description": ""
+  },
+  {
+    "prefix": "align-content-space-between",
+    "name": "align-content-between",
+    "prop": "align-content",
+    "value": "space-between",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-unset",
+    "name": "justify-content-unset",
+    "prop": "justify-content",
+    "value": "unset",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-center",
+    "name": "justify-content-center",
+    "prop": "justify-content",
+    "value": "center",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-space-between",
+    "name": "justify-content-between",
+    "prop": "justify-content",
+    "value": "space-between",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-space-around",
+    "name": "justify-content-around",
+    "prop": "justify-content",
+    "value": "space-around",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-flex-start",
+    "name": "justify-content-start",
+    "prop": "justify-content",
+    "value": "flex-start",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-flex-end",
+    "name": "justify-content-end",
+    "prop": "justify-content",
+    "value": "flex-end",
+    "description": ""
+  },
+  {
+    "prefix": "justify-content-left",
+    "name": "justify-content-left",
+    "prop": "justify-content",
+    "value": "left",
+    "description": ""
+  },
+  {
+    "prefix": "justify-self-baseline",
+    "name": "justify-self-baseline",
+    "prop": "justify-self",
+    "value": "baseline",
+    "description": ""
+  },
+  {
+    "prefix": "flex-grow-0",
+    "name": "flex-grow-0",
+    "prop": "flex-grow",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "flex-grow-1",
+    "name": "flex-grow-1",
+    "prop": "flex-grow",
+    "value": "1",
+    "description": ""
+  },
+  {
+    "prefix": "flex-shrink-0",
+    "name": "flex-shrink-0",
+    "prop": "flex-shrink",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "flex-shrink-1",
+    "name": "flex-shrink-1",
+    "prop": "flex-shrink",
+    "value": "1",
+    "description": ""
+  },
+  {
+    "prefix": "flex-basis-0",
+    "name": "flex-basis-0",
+    "prop": "flex-basis",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "flex-flow-row-wrap",
+    "name": "flex-flow-row-wrap",
+    "prop": "flex-flow",
+    "value": "row wrap",
+    "description": ""
+  },
+  {
+    "prefix": "flex-flow-wrap",
+    "name": "flex-flow-wrap",
+    "prop": "flex-flow",
+    "value": "wrap",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0",
+    "name": "flex-0",
+    "prop": "flex",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "flex-1",
+    "name": "flex-1",
+    "prop": "flex",
+    "value": "1",
+    "description": ""
+  },
+  {
+    "prefix": "flex-2",
+    "name": "flex-2",
+    "prop": "flex",
+    "value": "2",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-auto",
+    "name": "flex-0-0-auto",
+    "prop": "flex",
+    "value": "0 0 auto",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-12d5%",
+    "name": "flex-0-0-12d5p",
+    "prop": "flex",
+    "value": "0 0 12.5%",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-25%",
+    "name": "flex-0-0-25p",
+    "prop": "flex",
+    "value": "0 0 25%",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-34px",
+    "name": "flex-0-0-34px",
+    "prop": "flex",
+    "value": "0 0 34px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-40px",
+    "name": "flex-0-0-40px",
+    "prop": "flex",
+    "value": "0 0 40px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-48px",
+    "name": "flex-0-0-48px",
+    "prop": "flex",
+    "value": "0 0 48px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-56px",
+    "name": "flex-0-0-56px",
+    "prop": "flex",
+    "value": "0 0 56px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-60px",
+    "name": "flex-0-0-60px",
+    "prop": "flex",
+    "value": "0 0 60px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-70px",
+    "name": "flex-0-0-70px",
+    "prop": "flex",
+    "value": "0 0 70px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-80px",
+    "name": "flex-0-0-80px",
+    "prop": "flex",
+    "value": "0 0 80px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-94px",
+    "name": "flex-0-0-94px",
+    "prop": "flex",
+    "value": "0 0 94px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-98px",
+    "name": "flex-0-0-98px",
+    "prop": "flex",
+    "value": "0 0 98px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-104px",
+    "name": "flex-0-0-104px",
+    "prop": "flex",
+    "value": "0 0 104px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-106px",
+    "name": "flex-0-0-106px",
+    "prop": "flex",
+    "value": "0 0 106px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-114px",
+    "name": "flex-0-0-114px",
+    "prop": "flex",
+    "value": "0 0 114px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-120px",
+    "name": "flex-0-0-120px",
+    "prop": "flex",
+    "value": "0 0 120px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-128px",
+    "name": "flex-0-0-128px",
+    "prop": "flex",
+    "value": "0 0 128px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-140px",
+    "name": "flex-0-0-140px",
+    "prop": "flex",
+    "value": "0 0 140px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-144px",
+    "name": "flex-0-0-144px",
+    "prop": "flex",
+    "value": "0 0 144px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-146px",
+    "name": "flex-0-0-146px",
+    "prop": "flex",
+    "value": "0 0 146px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-160px",
+    "name": "flex-0-0-160px",
+    "prop": "flex",
+    "value": "0 0 160px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-168px",
+    "name": "flex-0-0-168px",
+    "prop": "flex",
+    "value": "0 0 168px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-180px",
+    "name": "flex-0-0-180px",
+    "prop": "flex",
+    "value": "0 0 180px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-190px",
+    "name": "flex-0-0-190px",
+    "count": 3,
+    "prop": "flex",
+    "value": "0 0 190px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-192px",
+    "name": "flex-0-0-192px",
+    "prop": "flex",
+    "value": "0 0 192px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-200px",
+    "name": "flex-0-0-200px",
+    "prop": "flex",
+    "value": "0 0 200px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-204px",
+    "name": "flex-0-0-204px",
+    "prop": "flex",
+    "value": "0 0 204px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-224px",
+    "name": "flex-0-0-224px",
+    "prop": "flex",
+    "value": "0 0 224px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-240px",
+    "name": "flex-0-0-240px",
+    "prop": "flex",
+    "value": "0 0 240px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-245px",
+    "name": "flex-0-0-245px",
+    "count": 4,
+    "prop": "flex",
+    "value": "0 0 245px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-256px",
+    "name": "flex-0-0-256px",
+    "count": 3,
+    "prop": "flex",
+    "value": "0 0 256px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-280px",
+    "name": "flex-0-0-280px",
+    "count": 3,
+    "prop": "flex",
+    "value": "0 0 280px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-300px",
+    "name": "flex-0-0-300px",
+    "prop": "flex",
+    "value": "0 0 300px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-323px",
+    "name": "flex-0-0-323px",
+    "prop": "flex",
+    "value": "0 0 323px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-370px",
+    "name": "flex-0-0-370px",
+    "prop": "flex",
+    "value": "0 0 370px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-0-0-500px",
+    "name": "flex-0-0-500px",
+    "prop": "flex",
+    "value": "0 0 500px",
+    "description": ""
+  },
+  {
+    "prefix": "flex-1-0-0",
+    "name": "flex-1-0-0",
+    "count": 2,
+    "prop": "flex",
+    "value": "1 0 0",
+    "description": ""
+  },
+  {
+    "prefix": "flex-1-0-14d285%",
+    "name": "flex-1-0-14d285p",
+    "count": 4,
+    "prop": "flex",
+    "value": "1 0 14.285%",
+    "description": ""
+  },
+  {
+    "prefix": "flex-direction-column-reverse",
+    "name": "flex-column-reverse",
+    "count": 7,
+    "prop": "flex-direction",
+    "value": "column-reverse",
+    "description": ""
+  },
+  {
+    "prefix": "flex-direction-row-reverse",
+    "name": "flex-row-reverse",
+    "count": 2,
+    "prop": "flex-direction",
+    "value": "row-reverse",
+    "description": ""
+  }
+]

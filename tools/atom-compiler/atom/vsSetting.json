@@ -1,0 +1,18 @@
+{
+  "vue => div": {
+    "scope": "vue, vue-html",
+    "prefix": "div",
+    "body": [
+      "<div class=\"$0\"></div>"
+    ],
+    "description": "渲染 div 标签，防止 vscode 插件影响导致书写class时不触发自定义的代码片段建议。"
+  },
+  "vue => className": {
+    "scope": "vue, vue-html",
+    "prefix": "class=\"\"",
+    "body": [
+      "class=\"$0\""
+    ],
+    "description": "渲染标签的 class 属性。"
+  }
+}

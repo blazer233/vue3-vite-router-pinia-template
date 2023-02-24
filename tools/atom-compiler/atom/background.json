@@ -1,0 +1,807 @@
+[
+  {
+    "prefix": "background-color-initial",
+    "name": "bg-c-initial",
+    "prop": "background-color",
+    "value": "initial",
+    "description": "设置背景色为初始值,即没有颜色的状态"
+  },
+  {
+    "prefix": "background-color-transparent",
+    "name": "bg-c-transparent",
+    "prop": "background-color",
+    "value": "transparent",
+    "description": "设置背景色为透明色"
+  },
+  {
+    "prefix": "background-color-#faf6fa",
+    "name": "bg-c-faf6fa",
+    "prop": "background-color",
+    "value": "#faf6fa",
+    "description": "设置背景颜色为灰色,主题页面背景色"
+  },
+  {
+    "prefix": "background-color-white",
+    "name": "bg-c-white",
+    "prop": "background-color",
+    "value": "white",
+    "description": "设置背景颜色为纯白色"
+  },
+  {
+    "prefix": "background-color-#ffffff",
+    "name": "bg-c-ffffff",
+    "prop": "background-color",
+    "value": "#ffffff",
+    "description": "设置背景颜色为白色1"
+  },
+  {
+    "prefix": "background-color-#f5f6fa",
+    "name": "bg-c-f5f6fa",
+    "prop": "background-color",
+    "value": "#f5f6fa",
+    "description": "设置背景颜色为白色2"
+  },
+  {
+    "prefix": "background-color-#f8f8f8",
+    "name": "bg-c-f8f8f8",
+    "prop": "background-color",
+    "value": "#f8f8f8",
+    "description": "设置背景颜色为白色3"
+  },
+  {
+    "prefix": "background-color-#f1f3f7",
+    "name": "bg-c-f1f3f7",
+    "prop": "background-color",
+    "value": "#f1f3f7",
+    "description": "设置背景颜色为白色4"
+  },
+  {
+    "prefix": "background-color-#f7f9ff",
+    "name": "bg-c-f7f9ff",
+    "prop": "background-color",
+    "value": "#f7f9ff",
+    "description": "设置背景颜色为白色5"
+  },
+  {
+    "prefix": "background-color-#f4f4f4",
+    "name": "bg-c-f4f4f4",
+    "prop": "background-color",
+    "value": "#f4f4f4",
+    "description": "设置背景颜色为白色6"
+  },
+  {
+    "prefix": "background-color-#f6f8fe",
+    "name": "bg-c-f6f8fe",
+    "prop": "background-color",
+    "value": "#f6f8fe",
+    "description": "设置背景颜色为白色7"
+  },
+  {
+    "prefix": "background-color-#333333",
+    "name": "bg-c-333333",
+    "prop": "background-color",
+    "value": "#333333",
+    "description": "设置背景颜色为黑色"
+  },
+  {
+    "prefix": "background-color-#cccccc",
+    "name": "bg-c-cccccc",
+    "prop": "background-color",
+    "value": "#cccccc",
+    "description": "设置背景颜色为极浅灰色"
+  },
+  {
+    "prefix": "background-color-#999999",
+    "name": "bg-c-999999",
+    "prop": "background-color",
+    "value": "#999999",
+    "description": "设置背景颜色为深灰色"
+  },
+  {
+    "prefix": "background-color-#ececec",
+    "name": "bg-c-ececec",
+    "prop": "background-color",
+    "value": "#ececec",
+    "description": "设置背景颜色为淡灰色1"
+  },
+  {
+    "prefix": "background-color-#e5e5e5",
+    "name": "bg-c-e5e5e5",
+    "prop": "background-color",
+    "value": "#e5e5e5",
+    "description": "设置背景颜色为淡灰色2"
+  },
+  {
+    "prefix": "background-color-#265cf0",
+    "name": "bg-c-blue",
+    "prop": "background-color",
+    "value": "#265cf0",
+    "description": "设置背景颜色为主题蓝色"
+  },
+  {
+    "prefix": "background-color-#3cc947",
+    "name": "bg-c-3cc947",
+    "prop": "background-color",
+    "value": "#3cc947",
+    "description": "设置背景颜色为主题绿色"
+  },
+  {
+    "prefix": "background-color-green",
+    "name": "bg-c-green",
+    "prop": "background-color",
+    "value": "green",
+    "description": "设置背景颜色为纯绿色"
+  },
+  {
+    "prefix": "background-color-#b6caff",
+    "name": "bg-c-b6caff",
+    "prop": "background-color",
+    "value": "#b6caff",
+    "description": "设置背景颜色为淡蓝灰色1"
+  },
+  {
+    "prefix": "background-color-#8a97b8",
+    "name": "bg-c-8a97b8",
+    "prop": "background-color",
+    "value": "#8a97b8",
+    "description": "设置背景颜色为淡蓝灰色2"
+  },
+  {
+    "prefix": "background-color-#011f70",
+    "name": "bg-c-011f70",
+    "prop": "background-color",
+    "value": "#011f70",
+    "description": "设置背景颜色为深蓝色"
+  },
+  {
+    "prefix": "background-unset",
+    "name": "bg-unset",
+    "prop": "background",
+    "value": "unset",
+    "description": "取消给该元素设置的背景"
+  },
+  {
+    "prefix": "background-none",
+    "name": "bg-none",
+    "prop": "background",
+    "value": "none",
+    "description": "使该元素的背景失效"
+  },
+  {
+    "prefix": "background-inherit",
+    "name": "bg-inherit",
+    "prop": "background",
+    "value": "inherit",
+    "description": "该元素继承父级背景色"
+  },
+  {
+    "prefix": "background-initial",
+    "name": "bg-initial",
+    "prop": "background",
+    "value": "initial",
+    "description": "设置背景为默认值"
+  },
+  {
+    "prefix": "background-currentColor",
+    "name": "bg-currentColor",
+    "prop": "background",
+    "value": "currentColor",
+    "description": "currentColor是CSS3新定义的一个属性,其意思是取当前元素或者父级元素定义的颜色值"
+  },
+  {
+    "prefix": "background-#f5f6fa",
+    "name": "bg-f5f6fa",
+    "prop": "background",
+    "value": "#f5f6fa",
+    "description": "设置背景为灰色,主题页面背景色"
+  },
+  {
+    "prefix": "background-transparent",
+    "name": "bg-transparent",
+    "prop": "background",
+    "value": "transparent",
+    "description": "设置背景为透明色"
+  },
+  {
+    "prefix": "background-white",
+    "name": "bg-white",
+    "prop": "background",
+    "value": "white",
+    "description": "设置背景为纯白色"
+  },
+  {
+    "prefix": "background-#ffffff",
+    "name": "bg-ffffff",
+    "prop": "background",
+    "value": "#ffffff",
+    "description": "设置背景为白色"
+  },
+  {
+    "prefix": "background-#000000",
+    "name": "bg-black",
+    "prop": "background",
+    "value": "#000000",
+    "description": "设置背景为主题黑色"
+  },
+  {
+    "prefix": "background-#265cf0",
+    "name": "bg-blue",
+    "prop": "background",
+    "value": "#265cf0",
+    "description": "设置背景为主题蓝色"
+  },
+  {
+    "prefix": "background-#ed4343",
+    "name": "bg-ed4343",
+    "prop": "background",
+    "value": "#ed4343",
+    "description": "设置背景为主题红色"
+  },
+  {
+    "prefix": "background-red",
+    "name": "bg-red",
+    "prop": "background",
+    "value": "red",
+    "description": "设置背景为纯红色"
+  },
+  {
+    "prefix": "background-#f7f9ff",
+    "name": "bg-f7f9ff",
+    "prop": "background",
+    "value": "#f7f9ff",
+    "description": "设置背景为极浅白灰色1"
+  },
+  {
+    "prefix": "background-#e5ebfd",
+    "name": "bg-e5ebfd",
+    "prop": "background",
+    "value": "#e5ebfd",
+    "description": "设置背景为极浅白灰色2"
+  },
+  {
+    "prefix": "background-#f2f2f2",
+    "name": "bg-f2f2f2",
+    "prop": "background",
+    "value": "#f2f2f2",
+    "description": "设置背景为极浅白灰色3"
+  },
+  {
+    "prefix": "background-rgba-38-92-240-0d04",
+    "name": "bg-blue-0d04",
+    "prop": "background",
+    "value": "rgba(38, 92, 240, 0.04)",
+    "description": "设置背景为蓝色+透明度为0.04"
+  },
+  {
+    "prefix": "background-rgba-38-92-240-0d08",
+    "name": "bg-blue-0d08",
+    "prop": "background",
+    "value": "rgba(38, 92, 240, 0.08)",
+    "description": "设置背景为蓝色+透明度为0.08"
+  },
+  {
+    "prefix": "background-rgba-38-92-240-0d1",
+    "name": "bg-blue-0d1",
+    "prop": "background",
+    "value": "rgba(38, 92, 240, 0.1)",
+    "description": "设置背景为蓝色+透明度为0.1"
+  },
+  {
+    "prefix": "background-rgba-245-246-250-0d6",
+    "name": "bg-f5f6fa-0d08",
+    "prop": "background",
+    "value": "rgba(245, 246, 250, 0.6)",
+    "description": "设置背景为灰色+透明度为0.6"
+  },
+  {
+    "prefix": "background-rgba-0-0-0-0d04",
+    "name": "bg-black-0d04",
+    "prop": "background",
+    "value": "rgba(0, 0, 0, 0.04)",
+    "description": "设置背景为黑色+透明度为0.04的背景色,常用于遮罩层"
+  },
+  {
+    "prefix": "background-rgba-60-201-71-0d08",
+    "name": "bg-green-0d08",
+    "prop": "background",
+    "value": "rgba(60, 201, 71, 0.08)",
+    "description": "设置背景为草绿色+透明度为0.08的背景色"
+  },
+  {
+    "prefix": "background-rgba-60-201-71-0d1",
+    "name": "bg-green-0d1",
+    "prop": "background",
+    "value": "rgba(60, 201, 71, 0.1)",
+    "description": "设置背景为草绿色+透明度为0.1的背景色"
+  },
+  {
+    "prefix": "background-rgba-250-145-40-0d08",
+    "name": "bg-orange-0d08",
+    "prop": "background",
+    "value": "rgba(250, 145, 40, 0.08)",
+    "description": "设置背景为橘黄色+透明度为0.08的背景色"
+  },
+  {
+    "prefix": "background-#d4defc",
+    "name": "bg-d4defc",
+    "prop": "background",
+    "value": "#d4defc",
+    "description": ""
+  },
+  {
+    "prefix": "background-#eeeeee",
+    "name": "bg-eeeeee",
+    "prop": "background",
+    "value": "#eeeeee",
+    "description": ""
+  },
+  {
+    "prefix": "background-#eff2f7",
+    "name": "bg-eff2f7",
+    "prop": "background",
+    "value": "#eff2f7",
+    "description": ""
+  },
+  {
+    "prefix": "background-#eef2fe",
+    "name": "bg-eef2fe",
+    "prop": "background",
+    "value": "#eef2fe",
+    "description": ""
+  },
+  {
+    "prefix": "background-#e5e5e6",
+    "name": "bg-e5e5e6",
+    "prop": "background",
+    "value": "#e5e5e6",
+    "description": ""
+  },
+  {
+    "prefix": "background-#cccccc",
+    "name": "bg-cccccc",
+    "prop": "background",
+    "value": "#cccccc",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f0f2f8",
+    "name": "bg-f0f2f8",
+    "prop": "background",
+    "value": "#f0f2f8",
+    "description": ""
+  },
+  {
+    "prefix": "background-#fef1e5",
+    "name": "bg-fef1e5",
+    "prop": "background",
+    "value": "#fef1e5",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f6f6f6",
+    "name": "bg-f6f6f6",
+    "prop": "background",
+    "value": "#f6f6f6",
+    "description": ""
+  },
+  {
+    "prefix": "background-#fa9128",
+    "name": "bg-fa9128",
+    "prop": "background",
+    "value": "#fa9128",
+    "description": ""
+  },
+  {
+    "prefix": "background-#fce8e8",
+    "name": "bg-fce8e8",
+    "prop": "background",
+    "value": "#fce8e8",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f0ba26",
+    "name": "bg-f0ba26",
+    "prop": "background",
+    "value": "#f0ba26",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f5f5f5",
+    "name": "bg-f5f5f5",
+    "prop": "background",
+    "value": "#f5f5f5",
+    "description": ""
+  },
+  {
+    "prefix": "background-#e5e5e5",
+    "name": "bg-e5e5e5",
+    "prop": "background",
+    "value": "#e5e5e5",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f2f6fe",
+    "name": "bg-f2f6fe",
+    "prop": "background",
+    "value": "#f2f6fe",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f5f5f7",
+    "name": "bg-f5f5f7",
+    "prop": "background",
+    "value": "#f5f5f7",
+    "description": ""
+  },
+  {
+    "prefix": "background-#678cf4",
+    "name": "bg-678cf4",
+    "prop": "background",
+    "value": "#678cf4",
+    "description": ""
+  },
+  {
+    "prefix": "background-#666666",
+    "name": "bg-666666",
+    "prop": "background",
+    "value": "#666666",
+    "description": ""
+  },
+  {
+    "prefix": "background-#265bed",
+    "name": "bg-265bed",
+    "prop": "background",
+    "value": "#265bed",
+    "description": ""
+  },
+  {
+    "prefix": "background-#ebedf3",
+    "name": "bg-ebedf3",
+    "prop": "background",
+    "value": "#ebedf3",
+    "description": ""
+  },
+  {
+    "prefix": "background-#e7edff",
+    "name": "bg-e7edff",
+    "prop": "background",
+    "value": "#e7edff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#ed7626",
+    "name": "bg-ed7626",
+    "prop": "background",
+    "value": "#ed7626",
+    "description": ""
+  },
+  {
+    "prefix": "background-#ccdaff",
+    "name": "bg-ccdaff",
+    "prop": "background",
+    "value": "#ccdaff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#e9eefd",
+    "name": "bg-e9eefd",
+    "prop": "background",
+    "value": "#e9eefd",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f5f8ff",
+    "name": "bg-f5f8ff",
+    "prop": "background",
+    "value": "#f5f8ff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#8a97b8",
+    "name": "bg-8a97b8",
+    "prop": "background",
+    "value": "#8a97b8",
+    "description": ""
+  },
+  {
+    "prefix": "background-#fafafa",
+    "name": "bg-fafafa",
+    "prop": "background",
+    "value": "#fafafa",
+    "description": ""
+  },
+  {
+    "prefix": "background-#dadada",
+    "name": "bg-dadada",
+    "prop": "background",
+    "value": "#dadada",
+    "description": ""
+  },
+  {
+    "prefix": "background-#bdcefa",
+    "name": "bg-bdcefa",
+    "prop": "background",
+    "value": "#bdcefa",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f7f7f7",
+    "name": "bg-f7f7f7",
+    "prop": "background",
+    "value": "#f7f7f7",
+    "description": ""
+  },
+  {
+    "prefix": "background-#b1c3f4",
+    "name": "bg-b1c3f4",
+    "prop": "background",
+    "value": "#b1c3f4",
+    "description": ""
+  },
+  {
+    "prefix": "background-#2bb2ff",
+    "name": "bg-2bb2ff",
+    "prop": "background",
+    "value": "#2bb2ff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#7e9ef6",
+    "name": "bg-7e9ef6",
+    "prop": "background",
+    "value": "#7e9ef6",
+    "description": ""
+  },
+  {
+    "prefix": "background-#fafafb",
+    "name": "bg-fafafb",
+    "prop": "background",
+    "value": "#fafafb",
+    "description": ""
+  },
+  {
+    "prefix": "background-#6de5c5",
+    "name": "bg-6de5c5",
+    "prop": "background",
+    "value": "#6de5c5",
+    "description": ""
+  },
+  {
+    "prefix": "background-#28a9ff",
+    "name": "bg-28a9ff",
+    "prop": "background",
+    "value": "#28a9ff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#e8efff",
+    "name": "bg-e8efff",
+    "count": 11,
+    "prop": "background",
+    "value": "#e8efff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#ffad00",
+    "name": "bg-ffad00",
+    "count": 5,
+    "prop": "background",
+    "value": "#ffad00",
+    "description": ""
+  },
+  {
+    "prefix": "background-#a8bef9",
+    "name": "bg-a8bef9",
+    "count": 4,
+    "prop": "background",
+    "value": "#a8bef9",
+    "description": ""
+  },
+  {
+    "prefix": "background-#a8ed41",
+    "name": "bg-a8ed41",
+    "count": 3,
+    "prop": "background",
+    "value": "#a8ed41",
+    "description": ""
+  },
+  {
+    "prefix": "background-#999999",
+    "name": "bg-999999",
+    "count": 3,
+    "prop": "background",
+    "value": "#999999",
+    "description": "深灰色1,常用于弱提示文字"
+  },
+  {
+    "prefix": "background-#e6ecff",
+    "name": "bg-e6ecff",
+    "count": 2,
+    "prop": "background",
+    "value": "#e6ecff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#becdfb",
+    "name": "bg-becdfb",
+    "count": 2,
+    "prop": "background",
+    "value": "#becdfb",
+    "description": ""
+  },
+  {
+    "prefix": "background-#5178f3",
+    "name": "bg-5178f3",
+    "count": 2,
+    "prop": "background",
+    "value": "#5178f3",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f0f0f0",
+    "name": "bg-f0f0f0",
+    "count": 2,
+    "prop": "background",
+    "value": "#f0f0f0",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f7f8fa",
+    "name": "bg-f7f8fa",
+    "count": 2,
+    "prop": "background",
+    "value": "#f7f8fa",
+    "description": ""
+  },
+  {
+    "prefix": "background-#edf0f5",
+    "name": "bg-edf0f5",
+    "count": 2,
+    "prop": "background",
+    "value": "#edf0f5",
+    "description": ""
+  },
+  {
+    "prefix": "background-#be3636",
+    "name": "bg-be3636",
+    "count": 2,
+    "prop": "background",
+    "value": "#be3636",
+    "description": ""
+  },
+  {
+    "prefix": "background-#ff6742",
+    "name": "bg-ff6742",
+    "count": 2,
+    "prop": "background",
+    "value": "#ff6742",
+    "description": ""
+  },
+  {
+    "prefix": "background-#2bb3ff",
+    "name": "bg-2bb3ff",
+    "count": 2,
+    "prop": "background",
+    "value": "#2bb3ff",
+    "description": ""
+  },
+  {
+    "prefix": "background-#0ed78f",
+    "name": "bg-0ed78f",
+    "count": 2,
+    "prop": "background",
+    "value": "#0ed78f",
+    "description": ""
+  },
+  {
+    "prefix": "background-#d8d8d8",
+    "name": "bg-d8d8d8",
+    "count": 2,
+    "prop": "background",
+    "value": "#d8d8d8",
+    "description": ""
+  },
+  {
+    "prefix": "background-#f1b6b6",
+    "name": "bg-f1b6b6",
+    "count": 2,
+    "prop": "background",
+    "value": "#f1b6b6",
+    "description": ""
+  },
+  {
+    "prefix": "background-#007934",
+    "name": "bg-007934",
+    "prop": "background",
+    "value": "#007934",
+    "description": ""
+  },
+  {
+    "prefix": "background-#6381e1",
+    "name": "bg-6381e1",
+    "prop": "background",
+    "value": "#6381e1",
+    "description": ""
+  },
+  {
+    "prefix": "background-#403d52",
+    "name": "bg-403d52",
+    "prop": "background",
+    "value": "#403d52",
+    "description": ""
+  },
+  {
+    "prefix": "background-#d6e4ee",
+    "name": "bg-d6e4ee",
+    "prop": "background",
+    "value": "#d6e4ee",
+    "description": ""
+  },
+  {
+    "prefix": "background-#deecdc",
+    "name": "bg-deecdc",
+    "prop": "background",
+    "value": "#deecdc",
+    "description": ""
+  },
+  {
+    "prefix": "background-color-#f2f2f2",
+    "name": "bg-c-f2f2f2",
+    "count": 3,
+    "prop": "background-color",
+    "value": "#f2f2f2",
+    "description": ""
+  },
+  {
+    "prefix": "background-color-#265bed",
+    "name": "bg-c-265bed",
+    "count": 2,
+    "prop": "background-color",
+    "value": "#265bed",
+    "description": ""
+  },
+  {
+    "prefix": "background-color-#fceed2",
+    "name": "bg-c-fceed2",
+    "count": 2,
+    "prop": "background-color",
+    "value": "#fceed2",
+    "description": ""
+  },
+  {
+    "prefix": "background-color-#fef1e5",
+    "name": "bg-c-fef1e5",
+    "count": 2,
+    "prop": "background-color",
+    "value": "#fef1e5",
+    "description": ""
+  },
+  {
+    "prefix": "background-rgba-255-255-255-0d2",
+    "name": "bg-white-0d2",
+    "prop": "background",
+    "value": "rgba(255, 255, 255, 0.2)",
+    "description": "设置背景为白色+透明度为0.2"
+  },
+  {
+    "prefix": "background-rgba-29-176-22-0d7",
+    "name": "bg-rgba-29-176-22-0d7",
+    "prop": "background",
+    "value": "rgba(29, 176, 22, 0.7)",
+    "description": ""
+  },
+  {
+    "prefix": "background-rgba-203-203-203-0d2",
+    "name": "bg-rgba-203-203-203-0d2",
+    "prop": "background",
+    "value": "rgba(203, 203, 203, 0.2)",
+    "description": ""
+  },
+  {
+    "prefix": "background-rgba-119-119-119-0d7",
+    "name": "bg-rgba-119-119-119-0d7",
+    "prop": "background",
+    "value": "rgba(119, 119, 119, 0.7)",
+    "description": ""
+  }
+]

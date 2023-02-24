@@ -1,0 +1,157 @@
+[
+  {
+    "prefix": "z-index-n1",
+    "name": "z-index-n1",
+    "prop": "z-index",
+    "value": "-1",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-0",
+    "name": "z-index-0",
+    "prop": "z-index",
+    "value": "0",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-1",
+    "name": "z-index-1",
+    "prop": "z-index",
+    "value": "1",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-2",
+    "name": "z-index-2",
+    "prop": "z-index",
+    "value": "2",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-3",
+    "name": "z-index-3",
+    "prop": "z-index",
+    "value": "3",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-4",
+    "name": "z-index-4",
+    "prop": "z-index",
+    "value": "4",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-5",
+    "name": "z-index-5",
+    "prop": "z-index",
+    "value": "5",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-6",
+    "name": "z-index-6",
+    "prop": "z-index",
+    "value": "6",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-8",
+    "name": "z-index-8",
+    "prop": "z-index",
+    "value": "8",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-9",
+    "name": "z-index-9",
+    "prop": "z-index",
+    "value": "9",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-10",
+    "name": "z-index-10",
+    "prop": "z-index",
+    "value": "10",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-11",
+    "name": "z-index-11",
+    "prop": "z-index",
+    "value": "11",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-20",
+    "name": "z-index-20",
+    "prop": "z-index",
+    "value": "20",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-50",
+    "name": "z-index-50",
+    "prop": "z-index",
+    "value": "50",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-51",
+    "name": "z-index-51",
+    "count": 2,
+    "prop": "z-index",
+    "value": "51",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-99",
+    "name": "z-index-99",
+    "prop": "z-index",
+    "value": "99",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-100",
+    "name": "z-index-100",
+    "prop": "z-index",
+    "value": "100",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-101",
+    "name": "z-index-101",
+    "prop": "z-index",
+    "value": "101",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-110",
+    "name": "z-index-110",
+    "prop": "z-index",
+    "value": "110",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-999",
+    "name": "z-index-999",
+    "prop": "z-index",
+    "value": "999",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-1000",
+    "name": "z-index-1000",
+    "prop": "z-index",
+    "value": "1000",
+    "description": ""
+  },
+  {
+    "prefix": "z-index-1001",
+    "name": "z-index-1001",
+    "prop": "z-index",
+    "value": "1001",
+    "description": ""
+  }
+]
